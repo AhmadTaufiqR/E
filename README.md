@@ -1,4 +1,4 @@
 # SISTEM INFORMASI E-BAYAR
 
-- UNTUK PROJECT WEBSITE ADA DI BRANCH WEBSITE
-- UNTUK PROJECT MOBILE ADA DI BRANCH MOBILEAPP
+- Untuk Project Website Ada Di Branch Website
+- Untuk Project Mobile ada Di Branch Mobile
